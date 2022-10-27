@@ -23,6 +23,7 @@ body {
 .header-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   width: 90%;
   margin: 0 auto;
   background-color: white;
@@ -46,6 +47,10 @@ body {
   list-style-type: none;
   color: #505f79;
   height: 20px;
+}
+
+.fa {
+  color: #505F79;
 }
 
 .hero-container {
@@ -74,10 +79,19 @@ body {
   font-size: 20px;
   text-decoration: none;
   padding-top: 5px;
+  color: #6070FF;
+}
+
+.fa-bars {
+  font-size: 1.5em;
 }
 
 .section {
   background-color: white;
   border-bottom-left-radius: 7rem;
   padding: 80px 5%;
+}
+
+.subhead {
+  color: #7F8CFF;
 }
