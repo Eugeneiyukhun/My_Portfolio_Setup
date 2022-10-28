@@ -41,9 +41,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/Eugeneiyukhun)
-- Twitter: [@twitterhandle](https://twitter.com/EIyukhun)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/eugene-iyukhun)
+- GitHub: [Eugene Iyukhun](https://github.com/Eugeneiyukhun)
+- Twitter: [Eugene Iyukhun](https://twitter.com/EIyukhun)
+- LinkedIn: [Eugene Iyukhun](https://linkedin.com/in/eugene-iyukhun)
 
 
 
@@ -67,4 +67,4 @@ Give a ⭐️ if you like this project!
 
 This project is MIT licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+_NOTE: we recommend using the [MIT.md license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
