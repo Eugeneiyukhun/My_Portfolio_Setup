@@ -36,6 +36,7 @@ body {
   padding: 100px 0;
   background-color: white;
   border-bottom-left-radius: 8rem;
+  background-size: cover;
 }
 
 .social-links > ul {
