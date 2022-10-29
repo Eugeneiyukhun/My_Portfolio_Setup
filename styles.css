@@ -270,6 +270,11 @@ body {
   border-bottom: 1px solid #505f79;
 }
 
+.accordion-item > h2 {
+  font-weight: 500;
+  font-size: larger;
+}
+
 .mother-accordion {
   padding: 0;
   margin: 0;
@@ -298,7 +303,7 @@ body {
 
 .child-accordion span {
   color: #253858;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .social {
